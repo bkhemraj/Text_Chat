@@ -1,8 +1,8 @@
 # Text_Chat
-Messaging App :)
+Text_Chat is Messaging App :)
+Consists of Three Activities which are as follows:
 
+* Text_Chat Login/SignUp
+* User_List
+* Chat_Activity
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
