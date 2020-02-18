@@ -6,4 +6,4 @@ Consists of Three Activities which are as follows:
 * User_List
 * Chat_Activity
 
-![alt text](http://url/to/img.png)
+
